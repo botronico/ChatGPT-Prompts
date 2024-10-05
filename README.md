@@ -4,7 +4,7 @@
 
 # 1. Customer Service Templates
 
-a. Responding to Customer Inquiries
+a. Responding to Customer Inquiries/n
 Use this template to generate professional, polite responses to common customer inquiries.
 
 Prompt:
